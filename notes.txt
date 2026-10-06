@@ -3,3 +3,5 @@ Git is a version control system (VCS).
 Git is developed by Linus in 2005.`
 
 Learning branches in Git so made a change in feature-notes.
+
+This line is changed in alfa branch to cause conflict. feature-notes no longer exist.
