@@ -2,4 +2,4 @@ Git is a version control system (VCS).
 
 Git is developed by Linus in 2005.`
 
-Learning branches in Git.
+Learning branches in Git so made a change in feature-notes.
