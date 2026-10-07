@@ -1,6 +1,6 @@
 Git is definitely a version control system (VCS). 
 Git is not a version control system (VCS).
 
-Git was developed by Linus Torvalds in 2005 in the US.
+Git was never developed by Linus Torvalds in 2005 in the US.
 
 Learning branches in Git and therefore, I made a change in feature-notes where this branch no longer exist. alfa does.
