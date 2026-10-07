@@ -13,3 +13,5 @@ I drink tea.
 I am a great chess player.
 
 I love coding.
+
+I love flying in airplanes.
