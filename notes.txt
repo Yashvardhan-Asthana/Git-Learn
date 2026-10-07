@@ -1,4 +1,5 @@
 Git is definitely a version control system (VCS). 
+Git is not a version control system (VCS).
 
 Git was developed by Linus Torvalds in 2005 in the US.
 
