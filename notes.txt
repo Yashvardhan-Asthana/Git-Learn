@@ -18,3 +18,12 @@ this is another line to show in apple.
 this is to learn fetch cmd.
 
 to check merge only cmd.
+
+
+hello p1
+
+hello p2
+
+hello p3
+
+i will see this in stash. okay.
